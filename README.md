@@ -158,7 +158,7 @@ Responsive Developer Portfolio
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:rahulkumar73711818@gmail.com@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -179,5 +179,53 @@ Responsive Developer Portfolio
 ## ⚡ Code • Learn • Build • Repeat ⚡
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+
+</div>
+---
+
+# 🎯 Current Focus
+
+- 🔥 Solving LeetCode Daily
+- 🚀 Building Real-World Full Stack Projects
+- 📚 Improving DSA & Problem Solving
+- 💼 Preparing for Software Engineering Roles
+
+---
+
+# 📈 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulKumar-devhub&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 💡 Quote I Follow
+
+<div align="center">
+
+> **"Consistency beats intensity."**
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RahulKumar-devhub/RahulKumar-devhub/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+If you like my work, don't forget to ⭐ my repositories.
 
 </div>
