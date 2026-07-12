@@ -40,7 +40,15 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=RahulKumar-devhub&show_icons=true&hide_border=true&bg_color=0d0221&title_color=a855f7&icon_color=a855f7&text_color=c9c9c9&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulKumar-devhub&layout=compact&hide_border=true&bg_color=0d0221&title_color=a855f7&text_color=c9c9c9&langs_count=8"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulKumar-devhub&hide_border=true&background=0d0221&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=8a8a8a" width="80%"/>
+<img src="https://streak-stats.demolab.com/?user=RahulKumar-devhub&hide_border=true&background=0D0221&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A&border_radius=10" width="80%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RahulKumar-devhub&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7&title=Commits,Stars,PullRequest,Repositories,Followers" width="90%"/>
 
 </div>
 
@@ -92,6 +100,8 @@ My developer portfolio showcasing projects & skills.
 <div align="center">
 
 ### 💜 Thanks for visiting — let's build something great together!
+
+<img src="https://komarev.com/ghpvc/?username=RahulKumar-devhub&label=Profile+Views&color=a855f7&style=flat" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:0d0221&height=100&section=footer" width="100%"/>
 
