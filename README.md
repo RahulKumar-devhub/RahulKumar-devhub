@@ -151,12 +151,7 @@ whoami:
 <img width="100%" src="https://ghchart.rshah.org/A78BFA/RahulKumar-devhub"/>
 
 </td>
-<td width="55%" valign="top">
 
-<p align="center"><b>Top Languages</b></p>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulKumar-devhub&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
-
-</td>
 </tr>
 </table>
 
