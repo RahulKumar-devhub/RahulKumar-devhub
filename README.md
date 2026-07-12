@@ -86,3 +86,98 @@
 </p>
 
 ---
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌍 TripShare
+
+Smart Event & Expense Sharing Platform
+
+### Features
+
+- 👥 Group Trip Planning
+- 💸 Expense Splitting
+- 📅 Event Management
+- 📍 Location Sharing
+
+<a href="https://github.com/RahulKumar-devhub">
+<img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🌐 Personal Portfolio
+
+Responsive Developer Portfolio
+
+### Features
+
+- ⚡ Modern UI
+- 📱 Responsive
+- 🎨 Dark Theme
+- 🚀 Fast Loading
+
+<a href="https://rahul-kumarportfolio.lovable.app/">
+<img src="https://img.shields.io/badge/Visit_Portfolio-8A2BE2?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏅 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RahulKumar-devhub&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulKumar-devhub&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Reach Me
+
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rahul-kumar-249b88216/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://rahul-kumarportfolio.lovable.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⚡ Code • Learn • Build • Repeat ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+
+</div>
