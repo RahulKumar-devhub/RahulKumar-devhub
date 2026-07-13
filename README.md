@@ -37,7 +37,6 @@ whoami:
   currently_learning:
     - Data Structures & Algorithms
     - System Design
-    - React & Node.js Ecosystem
     - Advanced SQL & DBMS
 
   passion: "Building products that solve real problems"
